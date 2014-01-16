@@ -1,9 +1,9 @@
 name: JamesIsAwesome
 main: com.neatlight.james.JamesIsCool
-version: 0.01
+version: 0.02
 commands:
     james:
       description: James is cool.
       usage: /james
       permission: jamesisawesome.james
-      permission-message: You don't have the permission of James, the mighty god. Suck it. Or just ask tejasprak to fix this.  Cuz obviously I have messsed up on permissions.
+      permission-message: You don't have the permission of James, the mighty god. Suck it. Or just ask tejasprak to fix this.  Cuz obviously I have messsed up on permissions. I'm cool.
